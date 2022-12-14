@@ -6,8 +6,7 @@
 
 ### 二、java
 
-泛型、stream、反射、函数式编程、多线程、juc、io、nio
-正则表达式
+泛型、stream、反射、函数式编程、多线程、juc、io、nio、正则表达式
 
 jvm调优，jmm模型
 
